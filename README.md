@@ -11,3 +11,6 @@ Link zu Trello:
 
 https://trello.com/b/kUo7uY0Q/mymigscan
 
+++++add Marco
+nächste Ausbaustufe ist dann autonomes Migros@Home delivery!
+
