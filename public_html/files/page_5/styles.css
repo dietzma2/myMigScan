@@ -222,7 +222,7 @@
   font-style:normal;
   font-size:13px;
   letter-spacing:normal;
-  color:#000000;
+  color:#FFFFFF;
   vertical-align:none;
   text-align:left;
   text-transform:none;
@@ -241,7 +241,7 @@
   font-style:normal;
   font-size:13px;
   letter-spacing:normal;
-  color:#000000;
+  color:#FFFFFF;
   vertical-align:none;
   text-align:left;
   text-transform:none;
@@ -256,7 +256,7 @@
   width:172px;
   height:25px;
   background:inherit;
-  background-color:rgba(255, 255, 255, 1);
+  background-color:rgba(51, 51, 51, 1);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
@@ -265,6 +265,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  color:#FFFFFF;
 }
 #u17 {
   border-width:0px;
@@ -274,6 +275,7 @@
   width:172px;
   height:25px;
   display:flex;
+  color:#FFFFFF;
 }
 #u17 .text {
   position:absolute;
@@ -299,6 +301,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  color:#FFFFFF;
 }
 #u17.disabled {
 }

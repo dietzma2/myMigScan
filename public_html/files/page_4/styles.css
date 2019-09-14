@@ -54,7 +54,7 @@
   width:140px;
   height:40px;
   background:inherit;
-  background-color:rgba(22, 155, 213, 1);
+  background-color:rgba(112, 182, 3, 1);
   border:none;
   border-radius:5px;
   -moz-box-shadow:none;
@@ -90,7 +90,7 @@
   width:42px;
   height:40px;
   background:inherit;
-  background-color:rgba(255, 255, 255, 1);
+  background-color:rgba(194, 128, 255, 1);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
@@ -129,7 +129,7 @@
   width:42px;
   height:40px;
   background:inherit;
-  background-color:rgba(255, 255, 255, 1);
+  background-color:rgba(255, 255, 128, 1);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
